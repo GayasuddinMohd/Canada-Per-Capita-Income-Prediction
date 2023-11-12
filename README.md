@@ -1,4 +1,4 @@
-![Image Alt Text](https://media.istockphoto.com/id/155156722/photo/canadian-currency.jpg?s=2048x2048&w=is&k=20&c=DSAb6pPzHNDUjIjRFoaYQC4Xoe14pnfJrReBD0uZqtw=)
+![Image Alt Text](https://as2.ftcdn.net/v2/jpg/00/41/84/39/1000_F_41843965_ICppCaJPr9oJxnTW7eJPQPFQeWA6WEIf.jpg)
 
 # 🌷  Per Capita Income  🌷
 Per capita income or total income measures the average income earned per person in a given area in a specified year. It is calculated by dividing the area's total income by its total population. Per capita income is national income divided by population size.
