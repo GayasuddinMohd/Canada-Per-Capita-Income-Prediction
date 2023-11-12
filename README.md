@@ -9,7 +9,7 @@ Predicting a country's per capita income is a valuable exercise in understanding
 
   
 # Dataset 
-* Download the dataset from [Kaggle](* https://www.kaggle.com/datasets/gurdit559/canada-per-capita-income-single-variable-data-set?select=canada_per_capita_income.csv).
+* Download the dataset from [Kaggle](https://www.kaggle.com/datasets/gurdit559/canada-per-capita-income-single-variable-data-set?select=canada_per_capita_income.csv).
 
 # Result
 * The above prediction says that, in the year 2050 the Canada per capita income will be 66142.6463511(Canadian Dollar)
