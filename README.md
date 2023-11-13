@@ -3,7 +3,7 @@
 # Canada Per Capita Income Prediction  
 Predicting a country's per capita income is a valuable exercise in understanding economic trends and making informed decisions. In this analysis, we will use the Linear Regression algorithm to predict Canada's per capita income based on a single variable, typically a relevant economic indicator. Linear Regression aims to establish a linear relationship between the input variable and the target variable (per capita income).
 
-#  Technologies Used
+# Skills
 * Python
 * machine learning
 
